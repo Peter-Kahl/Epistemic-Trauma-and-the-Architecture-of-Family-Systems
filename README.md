@@ -6,7 +6,7 @@
 
 by Peter Kahl, 2025-11-24
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.-blue.svg)](https://doi.org/10.5281/zenodo.) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17696449-blue.svg)](https://doi.org/10.5281/zenodo.17696449) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![Abstract illustration of a family network: five silhouetted figures in coloured circular nodes (blue central figure connected by lines to four peripheral figures in orange, teal, green, and yellow), set against overlapping geometric shapes in warm and cool tones.](https://github.com/Peter-Kahl/Epistemic-Trauma-and-the-Architecture-of-Family-Systems/blob/main/family_tree.jpg?raw=true)
 
@@ -32,7 +32,7 @@ epistemic trauma, epistemic agency, developmental psychology, family systems, cl
 
 ## Cite this work
 
-Kahl, P. (2025). _Epistemic trauma and the architecture of family systems: Clinical recognition, differential diagnosis, and developmental repair_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Trauma-and-the-Architecture-of-Family-Systems DOI: https://doi.org/10.5281/zenodo.
+Kahl, P. (2025). _Epistemic trauma and the architecture of family systems: Clinical recognition, differential diagnosis, and developmental repair_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Trauma-and-the-Architecture-of-Family-Systems DOI: https://doi.org/10.5281/zenodo.17696449
 
 ## Publisher & Licence
 
